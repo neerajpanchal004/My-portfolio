@@ -21,7 +21,7 @@ export const projectData = [
   {
     name: "Advice-generator-app",
     alt: "A device showing screenshot of Advice-app",
-    img: "/img/memory-game.png",
+    img: "/img/advice-app.png",
     description:"As the name suggests, it is an advice app if you click on the dice button every time it returns beautiful advice.",
     techStack: "API,JavaScript, HTML, CSS",
     live: "https://advice-generator-app-seven-gamma.vercel.app/",

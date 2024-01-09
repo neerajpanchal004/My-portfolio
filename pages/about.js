@@ -28,20 +28,7 @@ export default function About() {
               express myself in a creative way. Plus, there is so much to
               explore that always keeps me excited!
             </p>
-            {/* <p className="mb-6">
-              In my free time, I get inspiration from other people&#39;s work
-              and try out new technologies to build side projects. Apart from
-              that, I also{" "}
-              <a
-                href="https://www.goodreads.com/sneharatnani"
-                rel="noreferrer"
-                target="_blank"
-                className="text-green underline font-medium dark:text-mustard"
-              >
-                read books
-              </a>{" "}
-              sometimes.
-            </p> */}
+            
             <p className="mb-6">
               Feel free to reach out and say hello at:{" "}
               <a

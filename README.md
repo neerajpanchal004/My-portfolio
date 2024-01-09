@@ -1,4 +1,4 @@
-<a href="https://sneharatnani.netlify.app/"><h1 align="center">Sneha Ratnani</h1></a>
+<a href="https://sneharatnani.netlify.app/"><h1 align="center">Neerak panchal</h1></a>
 
 ![portfolio site](./public/img/portfolio.png)
 
@@ -28,6 +28,3 @@ npm run dev
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Vercel](https://vercel.com/)
 
-## License
-
-![GitHub](https://img.shields.io/github/license/sneharatnani/portfolio-site?style=plastic)
