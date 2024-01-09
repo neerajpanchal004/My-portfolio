@@ -1,16 +1,16 @@
-<a href="https://sneharatnani.netlify.app/"><h1 align="center">Neerak panchal</h1></a>
+<a href="https://my-portfolio-sand-pi-62.vercel.app/about"><h1 align="center">Neeraj panchal</h1></a>
 
 ![portfolio site](./public/img/portfolio.png)
 
 My portfolio built with Next.js and Tailwind CSS. It is available in light as well as in dark themes.
 
-:point_right: **See it [live](https://sneharatnani.vercel.app/)**
+:point_right: **See it [live](https://my-portfolio-sand-pi-62.vercel.app/about)**
 
 ## :rocket: Quick start
 
 ```bash
 # clone repo
-git clone https://github.com/sneharatnani/portfolio-site.git
+git clone https://github.com/neerajpanchal004/My-portfolio.git
 
 # changing directory
 cd portfolio-site

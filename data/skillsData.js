@@ -40,7 +40,7 @@ export const skillsData = [
     caption: "Postman",
   },
   {
-    image: "/icons/Vercel.svg",
+    image: "/icons/vercel.svg",
     caption: "Vercel",
   },
 ];
