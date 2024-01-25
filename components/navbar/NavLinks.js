@@ -17,7 +17,7 @@ export default function NavLinks() {
         </StyledNavLink>
         <StyledNavLink>
           <a
-            href="https://drive.google.com/file/d/1Hp-OAD3lJNUYSHWQ_CO9PasPCpM2EtVL/view?usp=sharing"
+            href="https://drive.google.com/file/d/1oUm15zVm8hcbOjZV2FC5GKmon3EChpKJ/view?usp=sharing"
             rel="noreferrer"
             target={"_blank"}
           >
