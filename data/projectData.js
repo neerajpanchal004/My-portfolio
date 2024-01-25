@@ -1,5 +1,32 @@
 export const projectData = [
   {
+    name: "Namma-yatri-clone",
+    alt: "A device showing screenshot of namma yatri",
+    img: "/img/namma-yatri.png",
+    description:"This is Namma Yatri's clone. This website, which is an app for scheduling auto cabs, has a homepage that I created.",
+    techStack: "Next.js, Tailwind CSS",
+    live: "https://namma-yatri-clone.vercel.app/",
+    code: "https://github.com/neerajpanchal004/namma-yatri-clone",
+  },
+  {
+    name: "Devfinder",
+    alt: "A device showing screenshot of devfinder",
+    img: "/img/devfinder-light.png",
+    description:"I created this devfinder application using the GitHub User API, which shows github users' information along with social media links and an image.",
+    techStack: "API, Next.js, Tailwind CSS",
+    live: "https://devfinder-umber.vercel.app/",
+    code: "https://github.com/neerajpanchal004/Devfinder",
+  },
+  {
+    name: "Randam-question/answer",
+    alt: "A device showing screenshot of random-question/answer",
+    img: "/img/random-question.png",
+    description:"I created this devfinder application using the GitHub User API, which shows github users' information along with social media links and an image.",
+    techStack: "API, Next.js, Tailwind CSS",
+    live:"https://random-question-answer.vercel.app/",
+    code: "https://github.com/neerajpanchal004/Random-question-answer",
+  },
+  {
     name: "Whatsapp-clone",
     alt: "A device showing screenshot of Whatsapp-clone",
     img: "/img/whatsapp-clone.png",

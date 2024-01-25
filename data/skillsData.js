@@ -26,21 +26,8 @@ export const skillsData = [
     caption: "Next.js",
   },
   {
-    image: "/icons/github-logo.png",
-    caption: "Github",
+    image: "/icons/redux-icon.svg",
+    caption: "Redux",
   },
-
- 
-  {
-    image: "/icons/git.svg",
-    caption: "Git",
-  },
-  {
-    image: "/icons/postman.svg",
-    caption: "Postman",
-  },
-  {
-    image: "/icons/vercel.svg",
-    caption: "Vercel",
-  },
+  
 ];

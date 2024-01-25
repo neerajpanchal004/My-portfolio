@@ -1,5 +1,6 @@
 import Skills from "../components/about/Skills.js";
 import Layout from "../components/Layout.js";
+import Tools from "../components/about/Tools.js";
 
 export default function About() {
   return (
@@ -42,6 +43,8 @@ export default function About() {
             </p>
           </div>
           <Skills />
+          <Tools />
+
         </section>
       </>
     </Layout>
