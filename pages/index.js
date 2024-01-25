@@ -1,6 +1,6 @@
 import Image from "next/image.js";
 import Link from "next/link.js";
-import neeraj from "../public/img/neeraj.jpg";
+import neeraj from "../public/img/neeraj.png";
 import Layout from "../components/Layout.js";
 
 export default function Home() {
